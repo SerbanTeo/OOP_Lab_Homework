@@ -1,0 +1,49 @@
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+*.cmake
+*.xml
+*.iml
+*.txt
+*.check_cache
+*.log
+*.marks
+*.make
+*.includecache
+*.internal
+*.cbp
+*.bin
+*.name
+
+Lab1_1.1/cmake-build-debug/
+Lab1_1.1/.idea/
